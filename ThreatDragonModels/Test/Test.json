@@ -3,7 +3,11 @@
     "title": "Test"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "souabi"
+      }
+    ],
     "diagrams": [
       {
         "title": "Test Diagran",
